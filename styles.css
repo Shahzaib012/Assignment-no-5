@@ -1,0 +1,99 @@
+.withBg{
+    min-height: 80vh!important;
+    display: flex;
+    flex-direction: column;
+    background-image: url("./your food/Place Your Image Here (Double Click to Edit).png");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+
+}
+
+.navbar-nav a:hover{
+    color: red;
+}
+
+header{
+    /* box-shadow: rgba(32, 32, 59, 0.25) 0px 0px 100px -12px inset, rgba(0, 0, 0, 1) 0px 0px 100px -18px inset; */
+    box-shadow: rgba(0, 0, 0, 0.603) 0px 0px 0px 0px inset, rgba(10, 10, 0, 0.801) 0px 26px 5px 0px inset;
+
+}
+
+
+.container-third{
+    min-height: 80vh!important;
+    display: flex;
+    flex-direction: column;
+    background-image: url("/your food/section2.png");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.container4{
+    min-height: 80vh!important;
+    display: flex;
+    flex-direction: column;
+    background-image: url("/your food/Shape.png");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.container5{
+    min-height: 80vh!important;
+    display: flex;
+    flex-direction: column;
+    background-image: url("/your food/section2.png");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.container6{
+    min-height: 80vh!important;
+    display: flex;
+    flex-direction: column;
+    background-image: url("/your food/Shape.png");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.container7{
+    min-height: 80vh!important;
+    display: flex;
+    flex-direction: column;
+    background:linear-gradient(0deg, rgba(243, 36, 36, 0.808), rgba(250, 49, 49, 0.69)), url("/your food/Shape4.png");
+   
+}
+.container8{
+    min-height: 80vh!important;
+    display: flex; 
+    flex-direction: column;
+    background-image: url("/your food/Shape.png");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    background-color: aqua;
+    color: red;
+}
+.container9{
+    min-height: 80vh!important;
+    display: flex;
+    
+    /* background-color: black; */
+}
+
+#input-btn{
+    border-radius: 25px 0px 0px 25px;
+}
+.ontainer{
+    background-color:white;
+    box-shadow: 5px 10px inset;
+    box-shadow: 10px 10px 5px #ada0a0;
+    border: 1px solid #BFBFBF;
+
+    height: 20rem;
+}
+.hello{
+    
+    box-shadow: rgba(0, 0, 0, 0.603) 0px 0px 0px 0px inset, rgba(10, 10, 0, 0.801) 0px 26px 5px 0px inset;
+
+}
